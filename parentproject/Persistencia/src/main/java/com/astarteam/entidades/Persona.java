@@ -30,6 +30,10 @@ public class Persona implements Serializable {
 
 	/**
 	 * identificacion de la persona
+	 * 
+	 * 
+	 * 
+	 * hhyhy
 	 */
 	@Id
 	@Column(length = 20)
